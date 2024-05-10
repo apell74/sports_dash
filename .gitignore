@@ -1,0 +1,13 @@
+# Data
+/data/
+/mnt/data/
+*.csv
+/Golf/
+
+# Junk Files
+DS_Store
+.ipynb_checkpoints
+
+# Keys
+config.py
+__pycache__/
